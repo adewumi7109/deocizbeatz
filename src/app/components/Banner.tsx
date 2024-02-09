@@ -18,7 +18,7 @@ function Banner() {
      <form className='md:w-[50%] w-[90%] rounded bg-white flex items-center justify-between'>
         <input type="text" className='w-full rounded outline-none border-none pl-3 text-black h-[10vh]' name="" id="" />
          <div className='h-full p-1'>
-         <button className='text-black h-full rounded bg-primaryColor font-extrabold  w-[100px]'>Search</button>
+         <button className='text-white h-full rounded bg-primaryColor font-extrabold  w-[100px]'>Search</button>
          </div>
      </form>
     </div>
